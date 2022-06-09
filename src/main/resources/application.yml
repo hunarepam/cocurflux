@@ -1,0 +1,83 @@
+app:
+  brands:
+    - id : 1
+      name: LSTR
+      description: Shliahetnaia vopratka z Bielarusi
+    - id: 2
+      name: Oberig
+      description: Prykrasy dlia vsikh
+    - id: 3
+      name: KACHOROVSKA
+      description: Odiah ta vzuttia
+    - id: 4
+      name: Adidas
+      description: Top sportwear
+    - id: 5
+      name: Nike
+      description: Top sneakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
